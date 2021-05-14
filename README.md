@@ -6,4 +6,4 @@ Gracias a esta sencilla e ingeniosa idea, nuestro sistema operativo creerá que 
 
 **consiguiendo así nuestro objetivo.**
 
-![](PajaroBebedor.gif)
+![](Imagenes/PajaroBebedor.gif)
